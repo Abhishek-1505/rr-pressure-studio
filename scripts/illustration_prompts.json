@@ -1,0 +1,13 @@
+{
+  "tool": "Built-in image generation",
+  "prompts": {
+    "batter": "Use case: stylized-concept. Asset type: small cricket role illustration for a minimalist Rajasthan Royals scouting dashboard. A single full-body anonymous male cricket player, editorial pen doodle, confident slightly imperfect dark ink outlines (#253049), flat off-white kit with one muted rose-pink panel (#d86d95), restrained simple shapes, no face detail, no likeness to a real player, not chibi or mascot, no text, no logos, no border, no background, no shadow. Centered with generous transparent space, square composition. Must remain legible at 100 pixels. Subject: batter wearing a cricket helmet and pads playing an elegant grounded cover drive, one cricket bat held with two gloved hands, poised balanced silhouette.",
+    "pace": "Use case: stylized-concept. Asset type: small cricket role illustration for a minimalist Rajasthan Royals scouting dashboard. A single full-body anonymous male cricket player, editorial pen doodle, confident slightly imperfect dark ink outlines (#253049), flat off-white kit with one muted rose-pink panel (#d86d95), restrained simple shapes, no face detail, no likeness to a real player, not chibi or mascot, no text, no logos, no border, no background, no shadow. Centered with generous transparent space, square composition. Must remain legible at 100 pixels. Subject: fast bowler in a long athletic bowling delivery stride, front knee braced, bowling arm high and straight, short motion strokes, a single small cricket ball, no bat or helmet. Clearly a pace-bowling action.",
+    "spin": "Use case: stylized-concept. Asset type: small cricket role illustration for a minimalist Rajasthan Royals scouting dashboard. A single full-body anonymous male cricket player, editorial pen doodle, confident slightly imperfect dark ink outlines (#253049), flat off-white kit with one muted rose-pink panel (#d86d95), restrained simple shapes, no face detail, no likeness to a real player, not chibi or mascot, no text, no logos, no border, no background, no shadow. Centered with generous transparent space, square composition. Must remain legible at 100 pixels. Subject: spin bowler in a compact upright delivery action, short balanced stride, raised bowling arm and visibly expressive turning wrist with a small curved motion stroke near a single cricket ball, no bat or helmet. Calm controlled pose clearly distinct from a fast bowler."
+  },
+  "files": [
+    "dist/assets/role-batter.png",
+    "dist/assets/role-pace.png",
+    "dist/assets/role-spin.png"
+  ]
+}
