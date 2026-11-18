@@ -1,0 +1,177 @@
+{
+  "players": {
+    "Tim David": {
+      "file": "assets/tim-david.png",
+      "source": "https://www.mumbaiindians.com/players/67402-tim-david-profile",
+      "imageUrl": "https://www.mumbaiindians.com/static-assets/images/players/large/67402.png?v=2.13&w=400"
+    },
+    "Namboori Tilak Varma": {
+      "file": "assets/namboori-tilak-varma.png",
+      "source": "https://www.mumbaiindians.com/players/70761-tilak-varma-profile",
+      "imageUrl": "https://www.mumbaiindians.com/static-assets/images/players/large/action-shots/70761.png?v=7.33&w=400"
+    },
+    "Andre Russell": {
+      "file": "assets/andre-russell.png",
+      "source": "https://www.iplt20.com/teams/kolkata-knight-riders/squad",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2025/141.png"
+    },
+    "Naman Dhir": {
+      "file": "assets/naman-dhir.png",
+      "source": "https://www.espncricinfo.com/cricketers/naman-dhir-1287032",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/381300/381384.png",
+      "avatarScale": 1.1
+    },
+    "Ashutosh Sharma": {
+      "file": "assets/ashutosh-sharma.png",
+      "source": "https://www.iplt20.com/players/ashutosh-sharma/20703",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/3109.png"
+    },
+    "Riyan Parag": {
+      "file": "assets/riyan-parag.png",
+      "source": "https://www.iplt20.com/teams/rajasthan-royals/squad/2025",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2025/189.png"
+    },
+    "Rinku Singh": {
+      "file": "assets/rinku-singh.png",
+      "source": "https://www.iplt20.com/players/rinku-singh/3830",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/152.png"
+    },
+    "Romario Shepherd": {
+      "file": "assets/romario-shepherd.png",
+      "source": "https://cricpost.in/players",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2025/371.png"
+    },
+    "Sunil Narine": {
+      "file": "assets/sunil-narine.png",
+      "source": "https://www.iplt20.com/players/sunil-narine/203",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/156.png"
+    },
+    "Matheesha Pathirana": {
+      "file": "assets/matheesha-pathirana.png",
+      "source": "https://www.iplt20.com/teams/chennai-super-kings/squad-details/20627",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2024/1014.png"
+    },
+    "Josh Hazlewood": {
+      "file": "assets/josh-hazlewood.png",
+      "source": "https://www.iplt20.com/players/josh-hazlewood/857",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/36.png"
+    },
+    "Nathan Ellis": {
+      "file": "assets/nathan-ellis.png",
+      "source": "https://www.punjabkingsipl.in/players/70324-nathan-ellis-profile",
+      "imageUrl": "https://www.punjabkingsipl.in/static-assets/images/players/70324.png?v=6.57"
+    },
+    "Mustafizur Rahman": {
+      "file": "assets/mustafizur-rahman.png",
+      "source": "https://iplt20-dev-v2.epicon.in/players/mustafizur-rahman/1594",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2025/258.png"
+    },
+    "Marco Jansen": {
+      "file": "assets/marco-jansen.png",
+      "source": "https://www.iplt20.com/players/marco-jansen/17068",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2026/586.png"
+    },
+    "Nicholas Pooran": {
+      "file": "assets/nicholas-pooran.png",
+      "source": "https://www.espncricinfo.com/cricketers/nicholas-pooran-604302/matches",
+      "imageUrl": "https://img1.hscicdn.com/image/upload/f_auto%2Ct_ds_square_w_640%2Cq_50/lsci/db/PICTURES/CMS/320100/320109.png",
+      "avatarScale": 1.1
+    },
+    "Heinrich Klaasen": {
+      "file": "assets/heinrich-klaasen.png",
+      "source": "https://www.cricket.com.au/players/CA%3A671/heinrich-klaasen",
+      "imageUrl": "https://static-files.cricket-australia.pulselive.com/headshots/440/671-camedia.png"
+    },
+    "Rashid Khan": {
+      "file": "assets/rashid-khan.webp",
+      "source": "https://apl.af/",
+      "imageUrl": "https://api.acb.af/storage/apl/players/photos/LR3F2iVFbPMtbuT79PPX2R9DzAV2n6HxoBGqBV5v.webp"
+    },
+    "Mitchell Santner": {
+      "file": "assets/mitchell-santner.jpg",
+      "source": "https://www.panthalassanews.com/biography/mitchell-santner/youtube/",
+      "imageUrl": "https://www.panthalassanews.com/assets/images/biography/mitchell-santner.jpg"
+    },
+    "Jasprit Bumrah": {
+      "file": "assets/jasprit-bumrah.png",
+      "source": "https://www.mumbaiindians.com/players/63755-jasprit-bumrah-profile",
+      "imageUrl": "https://www.mumbaiindians.com/static-assets/images/players/large/action-shots/63755.png?v=7.33&w=400"
+    },
+    "Blessing Muzarabani": {
+      "file": "assets/blessing-muzarabani.png",
+      "source": "https://www.iplt20.com/players/blessing-muzarabani/22387",
+      "imageUrl": "https://documents.iplt20.com/ipl/IPLHeadshot2025/827.png"
+    },
+    "Yashasvi Jaiswal": {
+      "file": "assets/yashasvi-jaiswal.png",
+      "source": "https://www.rajasthanroyals.com/rr-players/yashasvi-jaiswal-ipl-profile-69238",
+      "imageUrl": "https://www.rajasthanroyals.com/static-assets/images/players/69238.png?v=7.49"
+    }
+  },
+  "teams": {
+    "Chennai Super Kings": {
+      "file": "assets/chennai-super-kings.svg",
+      "source": "https://www.iplt20.com/teams",
+      "imageUrl": "https://www.iplt20.com/api/team-assets?pathname=static%2Fteams%2F1622%2Ficon-dark.svg"
+    },
+    "Delhi Capitals": {
+      "file": "assets/delhi-capitals.svg",
+      "source": "https://www.iplt20.com/teams",
+      "imageUrl": "https://www.iplt20.com/api/team-assets?pathname=static%2Fteams%2F1396%2Ficon-dark.svg"
+    },
+    "Gujarat Titans": {
+      "file": "assets/gujarat-titans.svg",
+      "source": "https://www.iplt20.com/teams",
+      "imageUrl": "https://www.iplt20.com/api/team-assets?pathname=static%2Fteams%2F2879%2Ficon-dark.svg"
+    },
+    "Kolkata Knight Riders": {
+      "file": "assets/kolkata-knight-riders.svg",
+      "source": "https://www.iplt20.com/teams",
+      "imageUrl": "https://www.iplt20.com/api/team-assets?pathname=static%2Fteams%2F1873%2Ficon-dark.svg"
+    },
+    "Lucknow Super Giants": {
+      "file": "assets/lucknow-super-giants.svg",
+      "source": "https://www.iplt20.com/teams",
+      "imageUrl": "https://www.iplt20.com/api/team-assets?pathname=static%2Fteams%2F2880%2Ficon-dark.svg"
+    },
+    "Mumbai Indians": {
+      "file": "assets/mumbai-indians.svg",
+      "source": "https://www.iplt20.com/teams",
+      "imageUrl": "https://www.iplt20.com/api/team-assets?pathname=static%2Fteams%2F1854%2Ficon-dark.svg"
+    },
+    "Punjab Kings": {
+      "file": "assets/punjab-kings.svg",
+      "source": "https://www.iplt20.com/teams",
+      "imageUrl": "https://www.iplt20.com/api/team-assets?pathname=static%2Fteams%2F2040%2Ficon-dark.svg"
+    },
+    "Rajasthan Royals": {
+      "file": "assets/rajasthan-royals.svg",
+      "source": "https://www.iplt20.com/teams",
+      "imageUrl": "https://www.iplt20.com/api/team-assets?pathname=static%2Fteams%2F1558%2Ficon-dark.svg"
+    },
+    "Royal Challengers Bengaluru": {
+      "file": "assets/royal-challengers-bengaluru.svg",
+      "source": "https://www.iplt20.com/teams",
+      "imageUrl": "https://www.iplt20.com/api/team-assets?pathname=static%2Fteams%2F2138%2Ficon-dark.svg"
+    },
+    "Sunrisers Hyderabad": {
+      "file": "assets/sunrisers-hyderabad.svg",
+      "source": "https://www.iplt20.com/teams",
+      "imageUrl": "https://www.iplt20.com/api/team-assets?pathname=static%2Fteams%2F1153%2Ficon-dark.svg"
+    }
+  },
+  "roles": {
+    "batter": {
+      "file": "assets/role-batter.png",
+      "source": "Generated illustration; prompt in scripts/illustration_prompts.json"
+    },
+    "pace": {
+      "file": "assets/role-pace.png",
+      "source": "Generated illustration; prompt in scripts/illustration_prompts.json"
+    },
+    "spin": {
+      "file": "assets/role-spin.png",
+      "source": "Generated illustration; prompt in scripts/illustration_prompts.json"
+    }
+  }
+}
